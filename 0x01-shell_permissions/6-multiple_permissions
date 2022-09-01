@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwxr,o=xr-- hello
+chmod 744 hello
